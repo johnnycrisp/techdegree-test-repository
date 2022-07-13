@@ -1,2 +1,3 @@
-# techdegree-test-repository
- A test repository
+# Techdegree-test
+
+A test repository
